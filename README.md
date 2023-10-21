@@ -1,5 +1,3 @@
-# lyme_disease_detection
-
 # RashCheck: Lyme Disease Early Detection
 
 Welcome to the RashCheck project, a web application developed for the Women Who Code Hackathon for Social Good 2023. RashCheck is designed to empower individuals to perform early self-assessments for potential Lyme Disease symptoms from the comfort of their own homes. It utilizes machine learning and image analysis to detect Erythema Migrans rashes, a common early indicator of Lyme Disease.
