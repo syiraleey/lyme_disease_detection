@@ -4,17 +4,23 @@ Welcome to the RashCheck project, a web application developed for the Women Who 
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Challenges Statement](#challenges-statement)
+- [Proposed Solution](#proposed-solution)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Lyme Disease is a significant public health concern transmitted through tick bites. Early detection is crucial for effective treatment and to prevent severe complications. RashCheck addresses the challenge of delayed diagnosis by providing a user-friendly platform for individuals to assess the likelihood of Lyme Disease based on uploaded rash images.
+
+## Challenges Statement
+Our project aims to address the challenge of delayed Lyme Disease diagnosis due to limited access to healthcare and poor recognition of early symptoms. Through a user-friendly web app, utilizing machine learning and image analysis, our solution, RashCheck, empowers individuals to perform early self-assessments of potential Lyme Disease symptoms, contributing to timely treatment, reduced complications, and improved public health outcomes. RashCheck leverages Flask, Streamlit, and a CNN Inception-v3 model to provide remote and accessible early detection, benefiting society by promoting health empowerment and well-being.
+
+## Proposed Solution
+RashCheck bridges the gap between initial symptoms and professional medical evaluation by providing a user-friendly, accessible tool for the early detection of Lyme Disease based on the appearance of rashes, specifically targeting the identification of Erythema Migrans rashes. It serves as a valuable resource in the fight against Lyme Disease, ultimately contributing to better public health outcomes.
 
 ## Features
 - Upload and analyze images of rashes.
